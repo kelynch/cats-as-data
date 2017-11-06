@@ -5,3 +5,8 @@ The original metadata from the source institutions has been abbreviated and made
 messier so you have something to clean up!
 
 The images are in the `images/` subdirectory.
+
+## Work Plan
+* Remove all caps from titles.
+* Normalize dates.
+* Adore cats.
